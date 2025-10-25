@@ -4,7 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
+<<<<<<< HEAD
     <label for="Name"><b>Enter Namemmmm</b></label>
+=======
+    <label for="Name"><b>Enter Vidhya</b></label>
+>>>>>>> 2d36a7ab7ed72ee65a8bd7728d961d46a710e63a
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
